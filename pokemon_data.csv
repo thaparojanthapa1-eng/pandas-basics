@@ -1,0 +1,7 @@
+id,name,type_1,type_2,hp,attack,defense,is_legendary
+1,Bulbasaur,Grass,Poison,45,49,49,False
+4,Charmander,Fire,,39,52,43,False
+7,Squirtle,Water,,44,48,65,False
+25,Pikachu,Electric,,35,55,40,False
+150,Mewtwo,Psychic,,106,110,90,True
+143,Snorlax,Normal,,160,110,65,False
