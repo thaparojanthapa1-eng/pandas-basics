@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "stats": {"hp": 45, "attack": 49, "defense": 49},
+    "types": ["Grass", "Poison"],
+    "is_legendary": false
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "stats": {"hp": 39, "attack": 52, "defense": 43},
+    "types": ["Fire"],
+    "is_legendary": false
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "stats": {"hp": 35, "attack": 55, "defense": 40},
+    "types": ["Electric"],
+    "is_legendary": false
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo",
+    "stats": {"hp": 106, "attack": 110, "defense": 90},
+    "types": ["Psychic"],
+    "is_legendary": true
+  }
+]
