@@ -63,8 +63,8 @@ This project serves as a hands-on log and reference guide for core **Pandas** wo
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/pandas-foundations.git](https://github.com/YOUR_USERNAME/pandas-foundations.git)
-   cd pandas-foundations
+   git clone https://github.com/thaparojanthapa1-eng/pandas-basics.git
+   cd pandas-basics
 Set up a virtual environment (optional but recommended):
 
 Bash
@@ -82,7 +82,8 @@ pip install pandas
 Run any script:
 
 Bash
-python 01_series.py
-python 02_dataframes.py
+python basics_1.py
+python basics_2.py
+
 📄 License
 This project is open-source and available under the MIT License.
